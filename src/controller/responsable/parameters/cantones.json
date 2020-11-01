@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1594219745869,
+    "code": "222",
+    "name": "Rioverde",
+    "action": "Actualizar"
+  },
+  { "id": 1594219755662, "code": "4", "name": "Esmeraldas" },
+  { "id": 1594219775556, "code": "5", "name": "Muisne" },
+  { "id": 1594215617766, "code": "2", "name": "San Lorenzo" },
+  { "id": 1594219615612, "code": "500", "name": "Eloy Alfaro" },
+  {
+    "id": 1594219793984,
+    "code": "67",
+    "name": "Atacámes",
+    "action": "Actualizar"
+  },
+  { "id": 1598033434196, "code": "1", "name": "Macas" }
+]

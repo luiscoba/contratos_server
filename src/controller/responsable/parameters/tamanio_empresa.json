@@ -1,0 +1,16 @@
+[
+  { "id": 2, "code": "2", "name": "Mediana", "action": "Actualizar" },
+  {
+    "id": 1593809871108,
+    "code": "3",
+    "name": "Grande",
+    "action": "Actualizar"
+  },
+  { "id": 1594674221049, "code": "0", "name": "micro", "action": "Actualizar" },
+  {
+    "id": 1593809859336,
+    "code": "1",
+    "name": "Pequeña",
+    "action": "Actualizar"
+  }
+]

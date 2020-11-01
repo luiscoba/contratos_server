@@ -1,0 +1,19 @@
+{
+  "type": "mssql",
+  "host": "SVCCPWNPRDMGR01",
+  "port": 10449,
+  "username": "usr_busdesa",
+  "password": "rcAKDB22*",
+  "database": "DBBUSINTEGRACIONDESA",
+  "schema": "Proveedores_test",
+  "synchronize": true,
+  "logging": false,
+  "entities": ["src/entities/**/*.ts"],
+  "migrations": ["src/migration/**/*.ts"],
+  "subscribers": ["src/subscriber/**/*.ts"],
+  "cli": {
+    "entitiesDir": "src/entities",
+    "migrationsDir": "src/migration",
+    "subscribersDir": "src/subscriber"
+  }
+}
